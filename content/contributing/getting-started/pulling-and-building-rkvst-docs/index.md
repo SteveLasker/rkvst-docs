@@ -34,7 +34,7 @@ RKVST Docs depend on npm version 14.
     ```  
 5. To run a local RKVST Docs Server it is advisable to use the `rkvst-doks` wrapper.
     ```bash
-    rkvst-doks start
+    ./rkvst-doks start
     ```
     This will build a local version of the server that can be accessed at [http://localhost:1313](http://localhost:1313).
     You can keep this running in the background while making any edits and the developer server should automatically pick up your changes for you.
