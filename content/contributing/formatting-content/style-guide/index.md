@@ -138,6 +138,8 @@ While most of this will come prefilled you will need to make sure the correct de
 
 When separating Articles into Topics and Subsections it is preferred to use Headings as a delimiter instead of alternatives like Horizontal Rules.
 
+Headings follow Title Case. [Capitalize My Title](https://capitalizemytitle.com/) is a good tool for copy/pasting formats.
+
 Markdown does support different formats for defining Headers including underlining text with either `=` or `-`; as those formats only apply to `#Header 1` and `Header 2` respectively, for consistency across all Header sizes we have opted to use `#` instead.
 
 The top level header ( `# Header 1`) is defined in the Article's metadata, so it is necessary to only use `## Header 2` or below.
